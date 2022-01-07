@@ -1,0 +1,12 @@
+CAMBIOS REALIZADOS
+
+1- modificar procedimiento almacenado 'SpMarca001Guardar' (inserta si no existe el registro) 
+2- cambiar cadena de conexion y agregar paquete system.data.sqlserver
+3- agregar opcion de mensaje
+4- recorrer la grilla y destacar la fila si la marca ya existe
+5- convertir a mayuscula el dato ingresado en el textbox de la marca
+6- modificar procedimiento almacenado 'SpMarca002GuardarModelo' (inserta si no existe el registro)
+7- agregar parametro faltante en el boton GuardarModelo (@codMarca)
+8- recorrer la grilla y destacar la fila si el modelo ya existe
+
+
